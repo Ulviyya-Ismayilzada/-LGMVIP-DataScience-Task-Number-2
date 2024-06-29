@@ -1,4 +1,4 @@
-# -LGMVIP-DataScience-Task-Number-2
+# LGMVIP-DataScience-Task-Number-2
 
 Exploratory Data Analysis on Dataset - Terrorism 
 
